@@ -64,3 +64,7 @@ nav{
     /* border-bottom: none; */
     font-style: italic;
 }
+footer{
+    text-align: center;
+    color: darkgrey;
+}
